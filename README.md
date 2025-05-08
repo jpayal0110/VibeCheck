@@ -3,24 +3,24 @@
 
 **VibeCheck** is an AI-powered music recommendation app that suggests songs based on your mood or natural-language prompt (like “party songs for my birthday” or “romantic rainy night”).
 
-## 🔥 Features
+## Features
 
-- 🎤 Prompt-based music recommendations
-- 🔎 Fuzzy search using genre, mood, pace, and song name
-- 🎧 Audio player with play/pause, next/previous, and seek functionality
-- ⌛ Displays current and total song duration
-- 💡 Suggested prompts to get you started
+- Prompt-based music recommendations
+- Fuzzy search using genre, mood, pace, and song name
+- Audio player with play/pause, next/previous, and seek functionality
+- Displays current and total song duration
+- Suggested prompts to get you started
 
 ---
 
-## 🖼️ Preview
+## Preview
 
 ![VibeCheck UI](website_ss1.jpeg)
 ![VibeCheck UI](website_ss2.jpeg),
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Frontend**: React.js, CSS, HTML5 Audio API
 - **Backend**: Flask, Python, MySQL
@@ -30,7 +30,7 @@
 ---
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Backend
 
@@ -59,7 +59,7 @@ By default:
 
 ---
 
-## 🧩 To Do / Future Features
+## To Do / Future Features
 
 - Add song thumbnails or album art
 - Save history of prompts and recommended songs
@@ -68,7 +68,7 @@ By default:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Built with ❤️ by Payal Jadhav.  
 Have feedback or want to contribute? Feel free to email: jpayal0110@gmail.com
